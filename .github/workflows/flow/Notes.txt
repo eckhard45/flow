@@ -1,0 +1,81 @@
+﻿noch zu tun (*= erledigt):
+* alle referenzierten Bilder listen
+* Abspeichern Texte zu fotos
+beim Start mit XML-Lesen wird erste Etappe nicht gefunden
+* Blättern 30 -> 40 Fotos, geändert nicht gespeichert
+Reihenfolge der pictBoxes ? 
+	(collections of Controls wahrscheinlich Reihenfolge Creation)
+	ggf. Datum des Fotos
+Speichern unter/ neue Datei
+Abbruch: neue erste Etappe Scrol ohne Speichern
+* dist (regelhafter Abstand und neueLoc (neuer Startpunkt): Verhältnis/Funktion unklar
+Scroll wird zu oft gehandelt
+Drehung pictBox speichern
+
+Bemerkungen:
+Änderungen an Textboxen der pictboxes werden in da Descr-Feld des Objekts geschrieben.
+sie sind damit beim Nicht-Sichern trotzdem geändert vorhanden.
+Nur bool picBsChanged und geaendert registrieren die Änderungen an einer Etappe
+--------------
+updateFotos() nicht aufgerufen
+getIDNodes( string thisID) nicht aufgerufen
+hasChanged() nicht mehr aufgerufen
+textChanged() nicht aufgerufen
+--------------
+Etappen-ID wird nur durch hor.Scrollbar geändert
+jegliche Änderung ausschließlich in den bools geändert und picBsChanged registriert.
+
+getNextID(ID,  up = true){
+	zaehler = ID;
+	int i = 20;		// um mögl. endlos-Schleife zu verhindern
+	// solange keine <etappe>  Member gefunden ID++/ID-- prüfen
+	while (keine Etappe mit ID++/--) UND i>0) {
+		if (up) {
+			ID = zaehler++ ;
+		} else {
+			ID = zaehler-- ;
+		}
+		gefunden = from record in xTree.Descendants("etappe") mit dieser ID 
+		i--;
+	}
+	if (Etappe gefunden) {
+		itemsID = gefunden;
+		hScrollBar1 = zaehler;
+		return ID;
+	} else {
+		return "";;
+	}
+}
+#########################################
+ setNodeData(ID){ // Voraussetzung: IDs sortiert
+	ID = getNextID(ID, up);		// setzt itemsID Liste und ID, up von doScroll()
+	angezeigte Etappe leeren; eventhandler entfernen
+	if (ID == ""){
+		StatusLabel1 = "kein <row>-Satz gefunden";
+		Felder leeren,  
+		Message("kein weiterer XML-Satz vorhanden!)
+		eventhandler deaktivieren; geaendert = false;
+		return;
+	}
+	foreach (XElement item in itemsID){
+		switch (item.Name, Titel, ..) {
+       		case "Titel":
+        		tbTitel.Text = item.Value;
+        		break;
+       		case "IDKarte":
+        		.......etc
+        		break;
+       		case "fotos":
+        		neueLoc = new Point(3,3);
+        		foreach (foto ) {
+        			picbox2 = machNeuePB(pfad, foto.Element("Titel").Value);
+					mit neueLoc; ggf Leerbild; listBox1 setzen;
+					neueLoc = newLocation(neueLoc);
+        		}
+        		break;
+      	}
+	} end foreach
+	geaendert = false;
+	wasDropped = true;		// damit neue Bilder hochgeschoben werden können
+	eventhandler aktivieren;
+}

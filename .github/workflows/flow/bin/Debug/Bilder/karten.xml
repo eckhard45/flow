@@ -1,0 +1,9 @@
+<karten>
+  <row>
+    <field name="ID" visible="true">0</field>
+    <field name="Datei">Datei</field>
+    <field name="Titel">Titel</field>
+    <field name="EtapID">Etappen-ID</field>
+    <field name="Koordinaten" invisible="true" titel="">...,...</field>
+  </row>
+</karten>

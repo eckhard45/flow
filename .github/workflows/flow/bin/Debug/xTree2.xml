@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <etappe>
+    <ID>10</ID>
+    <Zeit>29.06.</Zeit>
+    <Titel>Etappe 30 Füssen</Titel>
+    <IDKarte>4</IDKarte>
+    <Descr>Am Nachmittag und Abend finden in Füssen touristengerechte Volkstumsfeste statt: vom Fahnenschwenken, Falknereidarbietung bis Ritterkämpfen</Descr>
+    <fotos>
+      <foto>
+        <Titel>IMG_0030.JPG</Titel>
+        <Name>IMG_0030.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0030.JPG</Pfad>
+        <Desc>IMG_0030.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0032.JPG</Titel>
+        <Name>IMG_0032.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0032.JPG</Pfad>
+        <Desc>IMG_0032.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0035.JPG</Titel>
+        <Name>IMG_0035.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0035.JPG</Pfad>
+        <Desc>IMG_0035.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0036.JPG</Titel>
+        <Name>IMG_0036.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0036.JPG</Pfad>
+        <Desc>Fahnen schwingen</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0038.JPG</Titel>
+        <Name>IMG_0038.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0038.JPG</Pfad>
+        <Desc>IMG_0038.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0039.JPG</Titel>
+        <Name>IMG_0039.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0039.JPG</Pfad>
+        <Desc>IMG_0039.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0041.JPG</Titel>
+        <Name>IMG_0041.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0041.JPG</Pfad>
+        <Desc>IMG_0041.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0043.JPG</Titel>
+        <Name>IMG_0043.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0043.JPG</Pfad>
+        <Desc>Vögel werden gezeigt</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_neu</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\bin\Debug\Bilder\IMG_0028.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>20</ID>
+    <Zeit>29.06.</Zeit>
+    <Titel>Etappe 20 Füssen</Titel>
+    <IDKarte>4</IDKarte>
+    <Descr>Am Nachmittag und Abend finden in Füssen touristengerechte Volkstumsfeste statt: vom Fahnenschwenken, Falknereidarbietung bis Ritterkämpfen</Descr>
+    <fotos>
+      <foto>
+        <Titel>Blick von oben</Titel>
+        <Name>picbox2_10</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0019.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>Hohenschwangau</Titel>
+        <Name>picbox2_20</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0020.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_30</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0022.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_neu</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0023.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>30</ID>
+    <Zeit>29.06.</Zeit>
+    <Titel>Etappe 30 Füssen</Titel>
+    <IDKarte>4</IDKarte>
+    <Descr>Am Nachmittag und Abend finden in Füssen touristengerechte Volkstumsfeste statt: vom Fahnenschwenken, Falknereidarbietung bis Ritterkämpfen</Descr>
+    <fotos>
+      <foto>
+        <Titel>IMG_0028.JPG</Titel>
+        <Name>IMG_0028.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0028.JPG</Pfad>
+        <Desc>Fahnen schwenken</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0030.JPG</Titel>
+        <Name>IMG_0030.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0030.JPG</Pfad>
+        <Desc>IMG_0030.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0032.JPG</Titel>
+        <Name>IMG_0032.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0032.JPG</Pfad>
+        <Desc>IMG_0032.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0035.JPG</Titel>
+        <Name>IMG_0035.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0035.JPG</Pfad>
+        <Desc>IMG_0035.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0036.JPG</Titel>
+        <Name>IMG_0036.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0036.JPG</Pfad>
+        <Desc>Fahnen schwingen</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0038.JPG</Titel>
+        <Name>IMG_0038.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0038.JPG</Pfad>
+        <Desc>IMG_0038.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0039.JPG</Titel>
+        <Name>IMG_0039.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0039.JPG</Pfad>
+        <Desc>IMG_0039.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0041.JPG</Titel>
+        <Name>IMG_0041.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0041.JPG</Pfad>
+        <Desc>IMG_0041.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0043.JPG</Titel>
+        <Name>IMG_0043.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0043.JPG</Pfad>
+        <Desc>Vögel werden gezeigt</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>40</ID>
+    <Zeit>30.06.</Zeit>
+    <Titel>Etappe 40 </Titel>
+    <IDKarte>1</IDKarte>
+    <Descr>Der 1. Radtourtag. Zunächst bis Biberwier, wo uns ein Bus auf den Fernpass fährt. Bis Landeck ist es noch ein Stück</Descr>
+    <fotos>
+      <foto>
+        <Titel></Titel>
+        <Name></Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0047.JPG</Pfad>
+        <Desc>Prügeleien</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>43</ID>
+    <Zeit>30.06.2019</Zeit>
+    <Titel>Etappe 40 </Titel>
+    <IDKarte>2</IDKarte>
+    <Descr>Der 1. Radtourtag. Zunächst bis Biberwier, wo uns ein Bus auf den Fernpass fährt. Bis Landeck ist es noch ein Stück</Descr>
+    <fotos>
+      <foto>
+        <Titel>Prügeleien</Titel>
+        <Name>IMG_0047.JPG</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0047.JPG</Pfad>
+        <Desc>Prügeleien</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>44</ID>
+    <Zeit>abends</Zeit>
+    <Titel>neue Etappe</Titel>
+    <IDKarte>1</IDKarte>
+    <Descr>Der 1. Radtourtag. Zunächst bis Biberwier, wo uns ein Bus auf den Fernpass fährt. Bis Landeck ist es noch ein Stück</Descr>
+    <fotos>
+      <foto>
+        <Titel></Titel>
+        <Name></Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0050.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>50</ID>
+    <Zeit>1.07.2019</Zeit>
+    <Titel>Etappe 50</Titel>
+    <IDKarte>5</IDKarte>
+    <Descr>Der 1. Radtourtag. Zunächst bis Biberwier, wo uns ein Bus auf den Fernpass fährt. Bis Landeck ist es noch ein Stück</Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_10</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0052.JPG</Pfad>
+        <Desc>Marterl</Desc>
+      </foto>
+      <foto>
+        <Titel>Straße</Titel>
+        <Name>picbox2_20</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0053.JPG</Pfad>
+        <Desc>Straßenkrümmung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_30</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0025.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_40</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0025.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>55</ID>
+    <Zeit>28.06. - 05.07.2019</Zeit>
+    <Titel>Füssen</Titel>
+    <IDKarte>4</IDKarte>
+    <Descr>Lauter Apfelplantagen</Descr>
+    <fotos>
+      <foto>
+        <Titel>IMG_0050.JPG</Titel>
+        <Name>IMG_0050.JPG</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0050.JPG</Pfad>
+        <Desc>IMG_0050.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0051.JPG</Titel>
+        <Name>IMG_0051.JPG</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0051.JPG</Pfad>
+        <Desc>IMG_0051.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>IMG_0052.JPG</Titel>
+        <Name>IMG_0052.JPG</Name>
+        <Pfad>D:\xampp\htdocs\eckhard\2019-06Bozen\Bilder\IMG_0052.JPG</Pfad>
+        <Desc>IMG_0052.JPG</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_60</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\IMG_0038.JPG</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>60</ID>
+    <Zeit></Zeit>
+    <Titel>Etappe 60</Titel>
+    <IDKarte></IDKarte>
+    <Descr></Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_70</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\NorbertshöheUnten.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_80</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\Radtour0043_t.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_90</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\NorbertshöheMitte.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_100</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\NorbertshöheMitte.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>62</ID>
+    <Zeit>1</Zeit>
+    <Titel>zweiundsechzigste Etappe</Titel>
+    <IDKarte></IDKarte>
+    <Descr></Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_110</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\Radtour0043_t.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_neu</Titel>
+        <Name>picbox2_10</Name>
+        <Pfad>D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\Bilder\NorbertshöheMitte.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+</root>

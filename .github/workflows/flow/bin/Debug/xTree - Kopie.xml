@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <etappe>
+    <ID>1</ID>
+    <Zeit>morgens</Zeit>
+    <Titel>Etappe 1</Titel>
+    <IDKarte>1</IDKarte>
+    <Descr>Etappe1 Beschr.</Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_25</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur01.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_30</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur02.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>2</ID>
+    <Zeit>abends</Zeit>
+    <Titel>Etappe 2</Titel>
+    <IDKarte>22</IDKarte>
+    <Descr>Beschr. 2</Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_25</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur01.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>picbox2_30</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur02.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>3</ID>
+    <Zeit>zwischen</Zeit>
+    <Titel>etappe 3</Titel>
+    <IDKarte>333</IDKarte>
+    <Descr>Et 3 Beschr</Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_25</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur01.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>Titel picbox2_30</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur02.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+  <etappe>
+    <ID>4</ID>
+    <Zeit>nachmittags</Zeit>
+    <Titel>Etappe 4</Titel>
+    <IDKarte>44</IDKarte>
+    <Descr>Etappe 4</Descr>
+    <fotos>
+      <foto>
+        <Titel>picbox2_25</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur01.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+      <foto>
+        <Titel>Titel picbox2_30</Titel>
+        <Pfad>C:\Users\Eckhard\Pictures\Karikatur02.jpg</Pfad>
+        <Desc>Beschreibung</Desc>
+      </foto>
+    </fotos>
+  </etappe>
+</root>

@@ -1,0 +1,12 @@
+<reise>
+  <row>
+    <field name="ID" visible="false">0</field>
+    <field name="Basispfad">D:\Bilder\Eigene Bilder</field>
+    <field name="Bilder">2019-06ViaClaudia</field>
+    <field name="Text">Via Claudia Augusta</field>
+    <field name="wann">28.06. - 05.07.2019</field>
+    <field name="Titel">Radtour Füssen-Bozen</field>
+    <field name="Banner">Ein Banner.jpg</field>
+    <field name="Karten">rel. Pfad der Karten</field>
+  </row>
+</reise>

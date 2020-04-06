@@ -1,0 +1,10 @@
+D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\flow.exe.config
+D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\flow.exe
+D:\PC\SharpDevelop ProjectsC\flow\flow\bin\Debug\flow.pdb
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.exe
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.pdb
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.MainForm.resources
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.csproj.GenerateResource.Cache
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.Etappe.resources
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.csprojAssemblyReference.cache
+D:\PC\SharpDevelop ProjectsC\flow\flow\obj\Debug\flow.csproj.CoreCompileInputs.cache
